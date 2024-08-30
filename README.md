@@ -1,3 +1,3 @@
 # coinApp-deploy
 
-## coco - Kotlin&SpringBoot ver SpringBoot aws 배포용
+coco - Kotlin&SpringBoot ver / SpringBoot aws 배포용
